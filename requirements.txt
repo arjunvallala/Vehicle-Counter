@@ -1,0 +1,16 @@
+cvzone==1.6.1
+ultralytics
+hydra-core>=1.2.0
+matplotlib>=3.7.0
+numpy>=1.26.0
+opencv-python>=4.10.0
+Pillow>=10.0.0
+PyYAML>=6.0
+requests>=2.31.0
+scipy>=1.11.0
+torch
+torchvision
+tqdm>=4.66.0
+filterpy
+scikit-image
+lapx
